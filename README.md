@@ -1,3 +1,16 @@
+**VS code常规C工程建立方法
+  
+# github设定
+··· shell
+git init  
+git add .  
+git remote add origin https://github.com/bigdot123456/VSCode_C_Demo.git  
+git push origin master  
+```
+
+# 环境配置
+
+
 # VSCode_C_Demo
 use as a startup C++ configure
 在你的计算机中选择一个合适的位置，作为你的 C 语言开发工作区。建议工作区所在路径仅由字母、数字、下划线组成，不要包含其他的符号。例如空格，空格符号常常作为命令行中命令和参数的间隔符，如果路径包含空格会导致编译时出错。我创建的工作区的路径为： D:\Study\C\WorkSpace
